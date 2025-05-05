@@ -46,6 +46,19 @@ I am a DevOps engineer with extensive experience in cloud platforms, virtualizat
 
 Feel free to contact me for collaboration, consulting, or any inquiries related to DevOps, cloud platforms, and automation tools.
 
+
+## Certifications
+# Oracle:
+- Oracle Cloud Infrastructure 2023 Certified Architect Associate
+- Oracle Cloud Infrastructure 2023 Certified Multicloud Architect Associate
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate
+- Oracle Cloud Data Management 2023 Certified Foundations Associate
+# Microsoft:
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
+- AZ-104 Azure Administrator
+- Azure AI Fundamentals
+
 - **Email**: job.seeker.2085@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chand-pasha-6547616b/)     <== Click here to view LinkedIn proflie
 - **GitHub**: [https://github.com/chand9948/job.seeker.2085/blob/main/README.md]
