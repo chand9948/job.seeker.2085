@@ -47,7 +47,7 @@ I am a DevOps engineer with extensive experience in cloud platforms, virtualizat
 Feel free to contact me for collaboration, consulting, or any inquiries related to DevOps, cloud platforms, and automation tools.
 
 - **Email**: job.seeker.2085@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chand-pasha-6547616b/)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chand-pasha-6547616b/)     <== Click here to view LinkedIn proflie
 - **GitHub**: [https://github.com/chand9948/job.seeker.2085/blob/main/README.md]
 
 ---
