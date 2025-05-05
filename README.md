@@ -19,6 +19,7 @@ I am a SRE with DevOps engineer with extensive experience in cloud platforms, vi
 ### Operating Systems
 - **Unix**
 - **Linux**
+- **OEL**
 - **SUSE OS**
 
 ### Programming Languages
@@ -39,12 +40,12 @@ I am a SRE with DevOps engineer with extensive experience in cloud platforms, vi
 - Implemented CI/CD pipelines for Java applications using Jenkins, GitLab CI, and Azure DevOps.
 
 ### Virtualization and Containerization
-- Set up and managed virtualized environments using VMWare and OVM.
+- Set up and managed virtualized environments using VMware and OVM.
 - Containerized applications using Docker and orchestrated them using Kubernetes.
 
 ## Contact
 
-Feel free to contact me for collaboration, consulting, or any inquiries related to DevOps, cloud platforms, and automation tools.
+Please feel free to contact me for collaboration, consulting, or any questions related to DevOps, cloud platforms, and automation tools.
 
 
 ## Certifications
