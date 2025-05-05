@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a DevOps engineer with extensive experience in cloud platforms, virtualization technologies, operating systems, and automation tools. My expertise spans across AWS, Azure, OCI, and GCP Clouds, VMWare/OVM, Native Unix, Linux, and SUSE OS Operating Systems, Java-based applications, and various DevOps tools.
+I am a SRE with DevOps engineer with extensive experience in cloud platforms, virtualization technologies, operating systems, and automation tools. My expertise spans across AWS, Azure, OCI, and GCP Clouds, VMWare/OVM, Native Unix, Linux, and SUSE OS Operating Systems, Java-based applications, and various DevOps tools.
 
 ## Skills and Expertise
 
